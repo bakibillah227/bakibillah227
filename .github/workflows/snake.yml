@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: bakibillah227
           outputs: |
-            output/github-contribution-grid-snake-dark.svg
-            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FF4040
+            output/github-contribution-grid-snake.svg?color_snake=%23FF4040
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
