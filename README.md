@@ -33,13 +33,13 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 I'm a **Software Engineer** passionate about building scalable, high-quality web applications with the **MERN Stack**. I've contributed to production-grade applications serving **10,000+ users**, gaining practical experience in backend development, RESTful API design, authentication, database architecture, and clean software engineering practices.
 
 I enjoy transforming ideas into reliable digital products through modern technologies, maintainable code, and user-focused design. Beyond full-stack development, I'm continuously expanding my expertise in backend engineering, system design, cloud technologies, and AI-powered applications.
 
-### 🚀 Currently Open To
+### Currently Open To
 
 - Software Engineering Roles
 - Full Stack (MERN) Development
@@ -49,7 +49,7 @@ I enjoy transforming ideas into reliable digital products through modern technol
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ## Languages
 
@@ -77,11 +77,11 @@ I enjoy transforming ideas into reliable digital products through modern technol
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <details>
 
-<summary><b>📖 English Janala</b></summary>
+<summary><b>English Janala</b></summary>
 
 Modern vocabulary learning platform built using JavaScript ES6+.
 
@@ -94,17 +94,17 @@ Modern vocabulary learning platform built using JavaScript ES6+.
 
 ### Features
 
-- 📚 Lesson-based vocabulary learning
-- 🔍 Smart word search
-- 🔊 Word pronunciation using Speech Synthesis API
-- 📱 Responsive UI
-- ⚡ Dynamic content loading
+- Lesson-based vocabulary learning
+- Smart word search
+- Word pronunciation using Speech Synthesis API
+- Responsive UI
+- Dynamic content loading
 
 </details>
 
 <details>
 
-<summary><b>💼 Job Tracker</b></summary>
+<summary><b>Job Tracker</b></summary>
 
 A responsive job application management system.
 
@@ -117,16 +117,16 @@ A responsive job application management system.
 
 ### Features
 
-- 📂 Job filtering
-- ❌ Delete applications
-- 🔢 Real-time application counter
-- 📱 Fully responsive design
+- Job filtering
+- Delete applications
+- Real-time application counter
+- Fully responsive design
 
 </details>
 
 ---
 
-# 💼 Experience
+# Experience
 
 ## Foreign Communication Executive
 
@@ -143,7 +143,7 @@ A responsive job application management system.
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 | Achievement | Details |
 |-------------|---------|
@@ -155,14 +155,14 @@ A responsive job application management system.
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 - Programming in C — 10 Minute School
 - Complete MERN Stack Development — Programming Hero
 
 ---
 
-# 👨‍💻 Coding Profiles
+# Coding Profiles
 
 <p align="center">
 
@@ -178,7 +178,7 @@ A responsive job application management system.
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -196,7 +196,7 @@ A responsive job application management system.
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 
@@ -206,7 +206,7 @@ A responsive job application management system.
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <p align="center">
 
@@ -216,7 +216,7 @@ A responsive job application management system.
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 
@@ -226,7 +226,7 @@ A responsive job application management system.
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 ```yaml
 Learning:
@@ -249,7 +249,7 @@ Goals:
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -275,7 +275,7 @@ Goals:
 
 <p align="center">
 
-> *"Building scalable software that solves real-world problems."* 🚀
+> *"Building scalable software that solves real-world problems."*
 
 </p>
 
