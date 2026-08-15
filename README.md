@@ -14,27 +14,17 @@
 </p>
 
 <p align="center">
-
 ![](https://img.shields.io/badge/Bangladesh-Software_Engineer-A855F7?style=flat-square)
-
 [![](https://img.shields.io/badge/Portfolio-md--bakibillah--dev-7F5AF0?style=for-the-badge)](https://md-bakibillah-dev.netlify.app/)
-
 [![](https://img.shields.io/badge/LinkedIn-Md_Bakibillah-0077B5?style=for-the-badge)](https://www.linkedin.com/in/md-bakibillah-6943a227a/)
-
 [![](https://img.shields.io/badge/Email-bakibillah227%40gmail.com-EA4335?style=for-the-badge)](mailto:bakibillah227@gmail.com)
-
 [![](https://img.shields.io/badge/GitHub-bakibillah227-181717?style=for-the-badge)](https://github.com/bakibillah227)
-
 </p>
 
 <p align="center">
-
 ![](https://komarev.com/ghpvc/?username=bakibillah227&style=flat-square&color=7F5AF0)
-
 ![](https://img.shields.io/github/followers/bakibillah227?style=flat-square&color=7F5AF0)
-
 ![](https://img.shields.io/github/stars/bakibillah227?affiliations=OWNER&style=flat-square&color=A855F7)
-
 </p>
 
 ---
