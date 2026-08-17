@@ -184,7 +184,7 @@ A responsive job application management system.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bakibillah227&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bakibillah227&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="./profile/streak.svg"/>
 
 </p>
 
