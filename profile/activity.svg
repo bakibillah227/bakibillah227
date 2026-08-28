@@ -26,47 +26,47 @@
     <line class="ct-grid" x1="55" y1="116.50" x2="985" y2="116.50"/>
     <line class="ct-grid" x1="55" y1="72.00" x2="985" y2="72.00"/>
   </g>
-  <path class="ct-area" d="M 55.00 250 L 55.00 250.00 L 86.00 250.00 L 117.00 250.00 L 148.00 250.00 L 179.00 250.00 L 210.00 240.11 L 241.00 180.78 L 272.00 250.00 L 303.00 240.11 L 334.00 250.00 L 365.00 250.00 L 396.00 250.00 L 427.00 240.11 L 458.00 151.11 L 489.00 190.67 L 520.00 250.00 L 551.00 250.00 L 582.00 170.89 L 613.00 250.00 L 644.00 72.00 L 675.00 180.78 L 706.00 240.11 L 737.00 230.22 L 768.00 250.00 L 799.00 250.00 L 830.00 220.33 L 861.00 250.00 L 892.00 250.00 L 923.00 250.00 L 954.00 250.00 L 985.00 250.00 L 985.00 250 Z"/>
-  <polyline class="ct-line" points="55.00,250.00 86.00,250.00 117.00,250.00 148.00,250.00 179.00,250.00 210.00,240.11 241.00,180.78 272.00,250.00 303.00,240.11 334.00,250.00 365.00,250.00 396.00,250.00 427.00,240.11 458.00,151.11 489.00,190.67 520.00,250.00 551.00,250.00 582.00,170.89 613.00,250.00 644.00,72.00 675.00,180.78 706.00,240.11 737.00,230.22 768.00,250.00 799.00,250.00 830.00,220.33 861.00,250.00 892.00,250.00 923.00,250.00 954.00,250.00 985.00,250.00"/>
+  <path class="ct-area" d="M 55.00 250 L 55.00 250.00 L 86.00 250.00 L 117.00 250.00 L 148.00 250.00 L 179.00 250.00 L 210.00 229.06 L 241.00 239.53 L 272.00 187.18 L 303.00 239.53 L 334.00 250.00 L 365.00 250.00 L 396.00 250.00 L 427.00 239.53 L 458.00 239.53 L 489.00 145.29 L 520.00 250.00 L 551.00 250.00 L 582.00 239.53 L 613.00 166.24 L 644.00 187.18 L 675.00 72.00 L 706.00 208.12 L 737.00 229.06 L 768.00 239.53 L 799.00 250.00 L 830.00 218.59 L 861.00 250.00 L 892.00 250.00 L 923.00 250.00 L 954.00 250.00 L 985.00 239.53 L 985.00 250 Z"/>
+  <polyline class="ct-line" points="55.00,250.00 86.00,250.00 117.00,250.00 148.00,250.00 179.00,250.00 210.00,229.06 241.00,239.53 272.00,187.18 303.00,239.53 334.00,250.00 365.00,250.00 396.00,250.00 427.00,239.53 458.00,239.53 489.00,145.29 520.00,250.00 551.00,250.00 582.00,239.53 613.00,166.24 644.00,187.18 675.00,72.00 706.00,208.12 737.00,229.06 768.00,239.53 799.00,250.00 830.00,218.59 861.00,250.00 892.00,250.00 923.00,250.00 954.00,250.00 985.00,239.53"/>
   <g>
     <circle class="ct-point" cx="55.00" cy="250.00" r="4"/>
     <circle class="ct-point" cx="86.00" cy="250.00" r="4"/>
     <circle class="ct-point" cx="117.00" cy="250.00" r="4"/>
     <circle class="ct-point" cx="148.00" cy="250.00" r="4"/>
     <circle class="ct-point" cx="179.00" cy="250.00" r="4"/>
-    <circle class="ct-point" cx="210.00" cy="240.11" r="4"/>
-    <circle class="ct-point" cx="241.00" cy="180.78" r="4"/>
-    <circle class="ct-point" cx="272.00" cy="250.00" r="4"/>
-    <circle class="ct-point" cx="303.00" cy="240.11" r="4"/>
+    <circle class="ct-point" cx="210.00" cy="229.06" r="4"/>
+    <circle class="ct-point" cx="241.00" cy="239.53" r="4"/>
+    <circle class="ct-point" cx="272.00" cy="187.18" r="4"/>
+    <circle class="ct-point" cx="303.00" cy="239.53" r="4"/>
     <circle class="ct-point" cx="334.00" cy="250.00" r="4"/>
     <circle class="ct-point" cx="365.00" cy="250.00" r="4"/>
     <circle class="ct-point" cx="396.00" cy="250.00" r="4"/>
-    <circle class="ct-point" cx="427.00" cy="240.11" r="4"/>
-    <circle class="ct-point" cx="458.00" cy="151.11" r="4"/>
-    <circle class="ct-point" cx="489.00" cy="190.67" r="4"/>
+    <circle class="ct-point" cx="427.00" cy="239.53" r="4"/>
+    <circle class="ct-point" cx="458.00" cy="239.53" r="4"/>
+    <circle class="ct-point" cx="489.00" cy="145.29" r="4"/>
     <circle class="ct-point" cx="520.00" cy="250.00" r="4"/>
     <circle class="ct-point" cx="551.00" cy="250.00" r="4"/>
-    <circle class="ct-point" cx="582.00" cy="170.89" r="4"/>
-    <circle class="ct-point" cx="613.00" cy="250.00" r="4"/>
-    <circle class="ct-point" cx="644.00" cy="72.00" r="4"/>
-    <circle class="ct-point" cx="675.00" cy="180.78" r="4"/>
-    <circle class="ct-point" cx="706.00" cy="240.11" r="4"/>
-    <circle class="ct-point" cx="737.00" cy="230.22" r="4"/>
-    <circle class="ct-point" cx="768.00" cy="250.00" r="4"/>
+    <circle class="ct-point" cx="582.00" cy="239.53" r="4"/>
+    <circle class="ct-point" cx="613.00" cy="166.24" r="4"/>
+    <circle class="ct-point" cx="644.00" cy="187.18" r="4"/>
+    <circle class="ct-point" cx="675.00" cy="72.00" r="4"/>
+    <circle class="ct-point" cx="706.00" cy="208.12" r="4"/>
+    <circle class="ct-point" cx="737.00" cy="229.06" r="4"/>
+    <circle class="ct-point" cx="768.00" cy="239.53" r="4"/>
     <circle class="ct-point" cx="799.00" cy="250.00" r="4"/>
-    <circle class="ct-point" cx="830.00" cy="220.33" r="4"/>
+    <circle class="ct-point" cx="830.00" cy="218.59" r="4"/>
     <circle class="ct-point" cx="861.00" cy="250.00" r="4"/>
     <circle class="ct-point" cx="892.00" cy="250.00" r="4"/>
     <circle class="ct-point" cx="923.00" cy="250.00" r="4"/>
     <circle class="ct-point" cx="954.00" cy="250.00" r="4"/>
-    <circle class="ct-point" cx="985.00" cy="250.00" r="4"/>
+    <circle class="ct-point" cx="985.00" cy="239.53" r="4"/>
   </g>
   <g>
     <text class="label" x="47.00" y="254.00" text-anchor="end">0</text>
-    <text class="label" x="47.00" y="209.50" text-anchor="end">5</text>
+    <text class="label" x="47.00" y="209.50" text-anchor="end">4</text>
     <text class="label" x="47.00" y="165.00" text-anchor="end">9</text>
-    <text class="label" x="47.00" y="120.50" text-anchor="end">14</text>
-    <text class="label" x="47.00" y="76.00" text-anchor="end">18</text>
+    <text class="label" x="47.00" y="120.50" text-anchor="end">13</text>
+    <text class="label" x="47.00" y="76.00" text-anchor="end">17</text>
     <text class="label" x="55.00" y="272.00" text-anchor="middle">29</text>
     <text class="label" x="210.00" y="272.00" text-anchor="middle">3</text>
     <text class="label" x="365.00" y="272.00" text-anchor="middle">8</text>
