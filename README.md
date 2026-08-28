@@ -210,7 +210,7 @@ A responsive job application management system.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bakibillah227&theme=tokyo-night&hide_border=true"/>
+<img src="./profile/activity.svg"/>
 
 </p>
 
