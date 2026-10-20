@@ -67,12 +67,12 @@
     <text class="label" x="47.00" y="165.00" text-anchor="end">1</text>
     <text class="label" x="47.00" y="120.50" text-anchor="end">1</text>
     <text class="label" x="47.00" y="76.00" text-anchor="end">1</text>
-    <text class="label" x="55.00" y="272.00" text-anchor="middle">19</text>
-    <text class="label" x="210.00" y="272.00" text-anchor="middle">24</text>
-    <text class="label" x="365.00" y="272.00" text-anchor="middle">29</text>
-    <text class="label" x="520.00" y="272.00" text-anchor="middle">4</text>
-    <text class="label" x="675.00" y="272.00" text-anchor="middle">9</text>
-    <text class="label" x="830.00" y="272.00" text-anchor="middle">14</text>
-    <text class="label" x="985.00" y="272.00" text-anchor="middle">19</text>
+    <text class="label" x="55.00" y="272.00" text-anchor="middle">20</text>
+    <text class="label" x="210.00" y="272.00" text-anchor="middle">25</text>
+    <text class="label" x="365.00" y="272.00" text-anchor="middle">30</text>
+    <text class="label" x="520.00" y="272.00" text-anchor="middle">5</text>
+    <text class="label" x="675.00" y="272.00" text-anchor="middle">10</text>
+    <text class="label" x="830.00" y="272.00" text-anchor="middle">15</text>
+    <text class="label" x="985.00" y="272.00" text-anchor="middle">20</text>
   </g>
 </svg>
